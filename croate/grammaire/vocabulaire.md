@@ -98,3 +98,14 @@
 - **Ja sam dobro** / **dobro** = Je vais bien / Bien
 - **Kako se zoveš ?** = Comment tu t'appelles ?
 - **Zovem se** = Je m'appelle 
+
+### Professions
+
+- **liječnik** = docteur
+- **tajnik** = secretaire
+- **učitelj** = institutrice
+- **profesor** = professeur
+- **pjevač** = chanteur
+- **konobar** = serveur
+- **političar** = politicien (exception terminant par **"ka"**)
+- **mehaničar** = mecanicien (exception terminant par **"ka"**)
