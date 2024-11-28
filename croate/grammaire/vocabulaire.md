@@ -56,7 +56,7 @@
 - **tata** = papa
 - **ulica** = rue
 - **naranča** = orange
-- **vilica** = fourcette
+- **vilica** = fourchette
 - **smaj** = dragon
 - **žuto** = jaune
 

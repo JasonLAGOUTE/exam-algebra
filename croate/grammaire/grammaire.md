@@ -100,7 +100,7 @@ Pour l'Allemagne, on supprime le **"i"** entre le **"N"** et le **"j"**.
 Pour la Norvège, on supprime le **"in"** et on rajoute le **"ka"**.
 - Norveška (Norvège) - Norvežanin (Norvègien) – Norvežanka (Norvègienne)
 
-Pour l'Autralie et les Etats-Unis, on supprime le **"ac"** et on rajoute le **"ka"**. 
+Pour l'Autriche et les Etats-Unis, on supprime le **"ac"** et on rajoute le **"ka"**. 
 - Austrija (Autriche) - Austrijanac (Autrichien) – Austrijanka (Autrichienne)
 - SAD (USA) - Amerikanac (Américain) – Amerikanka (Américaine)
 
