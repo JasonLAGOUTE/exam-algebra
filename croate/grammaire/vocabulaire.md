@@ -109,3 +109,23 @@
 - **konobar** = serveur
 - **političar** = politicien (exception terminant par **"ka"**)
 - **mehaničar** = mecanicien (exception terminant par **"ka"**)
+
+### Pays/Capitale
+
+- **Nizozemska** - **Amsterdam** = Pays-Bas
+- **Tunis** - **Tunis** = Tunisie
+- **Brazil** - **Brazilia** = Brésil
+- **Švicarska** - **Bern** = Suisse
+- **Austrija** - **Beč** = Autriche
+- **Nepal** - **Katmandu** = Nepal
+- **Portugal** - **Lisabon** = Portufal
+- **Mađarska** - **Budimpešta** = Hongrie
+- **Njemačka** - **Berlin** = Allemagne
+- **Francuska** - **Pariz** = France
+- **Hrvatska** - **Zagreb** = Croatie
+- **Italija** - **Rim** = Italie
+- **Amerika** - **Washington** = Amérique/Etats-Unis
+- **Kanada** - **Ottawa** = Canada
+- **Engleska** - **London** = Angleterre
+- **Kina** - **Peking** = Chine
+- **Španjolska** - **Madrid** = Espagne
