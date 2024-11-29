@@ -107,8 +107,12 @@
 - **profesor** = professeur
 - **pjevač** = chanteur
 - **konobar** = serveur
+- **glumac** = acteur
+- **slikar** = paintre
+- **arhitekt** = architecte
 - **političar** = politicien (exception terminant par **"ka"**)
 - **mehaničar** = mecanicien (exception terminant par **"ka"**)
+
 
 ### Pays/Capitale
 
