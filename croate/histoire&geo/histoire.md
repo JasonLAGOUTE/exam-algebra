@@ -31,8 +31,6 @@
 
 The Croats are believed to have migrated to Dalmatia around the 7th century.
 
-
-
 #### Duchy of Croatia (800–925)
 
 - **Kneževina Hrvatska** = Principauté de Dalmatie
@@ -65,7 +63,7 @@ Hrvatski kraljevi (Croatian kings):
 Mediterranean temperament 
 - DUBROVNIK – the only independent state
 
-#### Ottoman invasionsOttoman attacks on Croatian lands began after the fall of Bosnia in 1463.
+#### Ottoman invasions Ottoman attacks on Croatian lands began after the fall of Bosnia in 1463.
 
 - Vienna – the main target
 - As the Ottomans launched expansion further into Europe, Croatian lands became a place of permanent warfare.
@@ -80,7 +78,7 @@ Continental Croatia belonged to the Habsburg Monarchy.
 - Zagreb is often called “small Vienna” because of similar architecture
 - the influence of the German language and culture is evident in continental Croatia
 
-#### Grič cannonZagreb’s historical legend.
+#### Grič cannon Zagreb’s historical legend.
 
 - Ottomans set their goal to conquer Zagreb
 - citizens of Zagreb knew they were outnumbered
